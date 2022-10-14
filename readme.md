@@ -1,3 +1,3 @@
 # The First Testing project
 
-Technologies: AJAX, fetch, npm, JSON-server...
+Technologies: AJAX, Webpack, ES6 Modules, fetch, npm, JSON-server and something yet.
