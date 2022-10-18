@@ -65,6 +65,7 @@
     "encodeurl": "^1.0.2",
     "end-of-stream": "^1.4.4",
     "errorhandler": "^1.5.1",
+    "es6-promise": "^4.2.8",
     "escalade": "^3.1.1",
     "escape-goat": "^2.1.1",
     "escape-html": "^1.0.3",
